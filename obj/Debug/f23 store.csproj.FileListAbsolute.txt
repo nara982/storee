@@ -1,0 +1,22 @@
+C:\f23 store\f23 store\bin\roslyn\csc.exe
+C:\f23 store\f23 store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\f23 store\f23 store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\f23 store\f23 store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\f23 store\f23 store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\f23 store\f23 store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\f23 store\f23 store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\f23 store\f23 store\bin\roslyn\System.Collections.Immutable.dll
+C:\f23 store\f23 store\bin\roslyn\System.Reflection.Metadata.dll
+C:\f23 store\f23 store\bin\roslyn\vbc.exe
+C:\f23 store\f23 store\bin\roslyn\VBCSCompiler.exe
+C:\f23 store\f23 store\bin\roslyn\VBCSCompiler.exe.config
+C:\f23 store\f23 store\bin\f23 store.dll.config
+C:\f23 store\f23 store\bin\f23 store.dll
+C:\f23 store\f23 store\bin\f23 store.pdb
+C:\f23 store\f23 store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\f23 store\f23 store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\f23 store\f23 store\obj\Debug\f23 store.dll
+C:\f23 store\f23 store\obj\Debug\f23 store.pdb
+C:\f23 store\f23 store\obj\Debug\f23 store.csprojAssemblyReference.cache
+C:\f23 store\f23 store\obj\Debug\f23 store.csproj.CoreCompileInputs.cache
+C:\f23 store\f23 store\obj\Debug\f23 store.csproj.CopyComplete
